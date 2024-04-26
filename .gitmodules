@@ -1,0 +1,3 @@
+[submodule "DTTriggerPhase2/data"]
+	path = DTTriggerPhase2/data
+	url = https://github.com/dtp2-tpg-am/L1Trigger-DTTriggerPhase2/
